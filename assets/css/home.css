@@ -46,8 +46,8 @@ body{
 #home,
 #particles-js {
   position: relative;
-  height: 100vh;
-  width: 100%;
+  height: 20vh;
+  width: 80%;
 }
 
 .section {
@@ -55,6 +55,7 @@ body{
   justify-content: center;
   align-items: center;
 }
+
 
 .text .header {
   font-weight: bold;
